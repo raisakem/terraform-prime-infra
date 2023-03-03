@@ -1,0 +1,4 @@
+# this file should ignore any commit message in these file
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate.backup
